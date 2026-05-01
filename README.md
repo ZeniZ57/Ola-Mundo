@@ -1,6 +1,29 @@
 # Olá Mundo!
-Primeiro repositorio do curso de Git e Github
+---
+Podemos __*misturar*__ configuraçoes
+---
+lista numerada:
 
-repositorio criado durante uma aula ao vivo
+1. teste
+2. teste2
+   1. teste3
+4. teste4
+---
+lista de tarefas:
 
-essa linha eu adicionei diretamente no site, que impressionante!
+- [] Criar projeto
+- [x] beber agua
+- [x] respirar
+- []estudar
+---
+num | nome | | nota
+---|---|---
+1 | gustavo | 8,5
+2 | wally | 9
+3 | jorge | 5
+4 | nelson | 2
+
+```salve rapaziada do youtube!```
+
+
+ola pequeno gafanhoto 🤙
